@@ -8,7 +8,7 @@ fullnameOverride: ''
 image:
   pullPolicy: Always
   repository: indikak2000/automate-openshift-deployment
-  tag: '1.0'
+  tag: bfed81a8-de77-448a-92e6-7bd72a328142
 imagePullSecrets: []
 ingress:
   annotations: {}
